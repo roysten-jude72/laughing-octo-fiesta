@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Speed Test</title>
+</head>
+<body bgcolor="white" text="white" background="bck1.png">
+
+<center><img src="img1.jpg" width="350" height="60"></center>
+<center><img src="image2.jpg" width="25" height="25"><img src="image3.jpg" width="25" height="25"></center>
+
+
+<center><h1> Check your internet speed here</h1></center>
+
+<a href="https://fast.com"><center> <font color="white"> click here</a></font></center>
+ 
+</body>
+</html>
